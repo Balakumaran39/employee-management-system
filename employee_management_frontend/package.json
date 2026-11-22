@@ -1,0 +1,10 @@
+{
+  "name": "peopledesk-employee-management-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vanilla JavaScript employee management dashboard",
+  "scripts": {
+    "start": "python -m http.server 5500",
+    "dev": "python -m http.server 5500"
+  }
+}
